@@ -1,0 +1,2 @@
+Tõmmata alla EstBERT: https://huggingface.co/tartuNLP/EstBERT
+Huggingface-st saadud failid lisada kausta EstBERT.

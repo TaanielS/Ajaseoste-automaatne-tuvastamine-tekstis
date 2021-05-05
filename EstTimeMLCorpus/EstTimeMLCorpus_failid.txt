@@ -1,0 +1,2 @@
+Laadige alla EstTimeMLCorpus: https://github.com/soras/EstTimeMLCorpus
+Tõmmatud kaustad ja failid lisaga siia kausta (EstTimeMLCorpus).
